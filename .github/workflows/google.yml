@@ -5,7 +5,7 @@ on:
   types: [created]
 
 env:
-  PROJECT_ID: ${{ secrets.GKE_PROJECT }}
+  PROJECT_ID: imposing-carver-369908
   GKE_CLUSTER: cmpe172
   GKE_ZONE: asia-southeast1-b
   DEPLOYMENT_NAME: spring-gumball
