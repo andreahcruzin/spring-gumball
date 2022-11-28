@@ -16,7 +16,7 @@ on:
 env:
   PROJECT_ID: ${{ secrets.GKE_PROJECT }}
   GKE_CLUSTER: cmpe172
-  GKE_ZONE: asia-southeast1-b
+  GKE_ZONE: asia-southeast2-b
   DEPLOYMENT_NAME: spring-gumball
   IMAGE: spring-gumball
 
